@@ -155,7 +155,7 @@ const Index = () => (
       <div className="container mx-auto px-6">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <SectionReveal>
-            <span className="font-display text-sm font-semibold text-teal uppercase tracking-wider">Find Us</span>
+            <span className="font-display text-sm font-semibold text-accent uppercase tracking-wider">Find Us</span>
             <h2 className="font-display text-4xl font-extrabold text-foreground mt-3">
               Visit us in <span className="text-primary">Karu, Abuja</span>
             </h2>
