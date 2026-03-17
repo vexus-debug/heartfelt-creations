@@ -455,7 +455,7 @@ const Index = () => (
             </p>
             <div className="mt-12 flex flex-wrap justify-center gap-4">
               <a
-                href="https://wa.me/2348000000000"
+                href="https://wa.me/2349038535214"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-2 rounded-full bg-accent px-8 py-4 font-display text-sm font-bold text-accent-foreground shadow-lg shadow-accent/25 transition-all duration-300 hover:-translate-y-0.5 hover:shadow-xl hover:shadow-accent/30 active:scale-95"
@@ -465,7 +465,7 @@ const Index = () => (
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
               </a>
               <a
-                href="tel:+2348000000000"
+                href="tel:+2349024403837"
                 className="flex items-center gap-2 rounded-full border-2 border-primary-foreground/30 px-8 py-4 font-display text-sm font-bold text-primary-foreground transition-all duration-300 hover:bg-primary-foreground/10 hover:border-primary-foreground/50"
               >
                 <Phone className="h-4 w-4" />

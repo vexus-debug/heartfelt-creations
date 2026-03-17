@@ -24,7 +24,7 @@ const Contact = () => (
             <div className="space-y-6">
               {[
                 { icon: MapPin, label: "Visit Us", value: "Karu, Abuja, Nigeria (Near INEC Office)" },
-                { icon: Phone, label: "Call Us", value: "+234 800 000 0000" },
+                { icon: Phone, label: "Call / Enquiry", value: "0902 440 3837" },
                 { icon: Mail, label: "Email Us", value: "info@rubismile.com" },
                 { icon: Clock, label: "Working Hours", value: "Mon – Sat: 9:00 AM – 5:30 PM | Sun: Closed" },
               ].map((item) => (
