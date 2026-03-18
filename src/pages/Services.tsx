@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
+import { useSiteContent } from "@/hooks/useSiteContent";
 import {
   Shield, Heart, Zap, Star, CheckCircle, Clock, ArrowRight,
   Baby, Scissors, Sparkles, Phone, MessageCircle, ChevronRight,

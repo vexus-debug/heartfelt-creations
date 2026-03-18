@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { useSiteContent } from "@/hooks/useSiteContent";
 import {
   Heart, Users, Shield, Award, MapPin, Clock, Phone,
   ArrowRight, MessageCircle, Sparkles, Target, Eye,

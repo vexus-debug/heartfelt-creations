@@ -1,7 +1,11 @@
 import SectionReveal from "@/components/SectionReveal";
 import Layout from "@/components/Layout";
+import { useSiteContent } from "@/hooks/useSiteContent";
 
-const Disclaimer = () => (
+const Disclaimer = () => {
+  const { content: c } = useSiteContent("legal");
+
+  return (
   <Layout>
     <section className="bg-muted py-24">
       <div className="container mx-auto px-6 text-center">
