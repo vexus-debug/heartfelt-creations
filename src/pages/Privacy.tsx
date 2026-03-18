@@ -45,7 +45,7 @@ const Privacy = () => {
         </div>
       </div>
     </section>
-  </Layout>
-);
+  );
+};
 
 export default Privacy;
