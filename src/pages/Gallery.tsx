@@ -16,8 +16,7 @@ import exterior from "@/assets/gallery/exterior.jpg";
 import waitingArea from "@/assets/gallery/waiting-lounge.jpg";
 import waitingArea2 from "@/assets/gallery/reception-lounge.jpg";
 import operatory from "@/assets/gallery/operatory.jpg";
-import frontDesk from "@/assets/gallery/reception-desk.jpg";
-import entranceSign from "@/assets/gallery/entrance-sign.jpg";
+import entranceSign from "@/assets/gallery/entrance-sign-new.jpg";
 import clinicExterior2 from "@/assets/gallery/clinic-exterior-2.jpg";
 
 const images = [
@@ -28,7 +27,6 @@ const images = [
   { src: waitingArea, alt: "Comfortable waiting area with seating", category: "Waiting & Reception" },
   { src: waitingArea2, alt: "Spacious waiting lounge with water dispenser", category: "Waiting & Reception" },
   { src: reception, alt: "Reception area with dental model display", category: "Waiting & Reception" },
-  { src: frontDesk, alt: "Front desk with friendly decor", category: "Waiting & Reception" },
   { src: operatory, alt: "Modern dental operatory with digital equipment", category: "Surgery Rooms" },
   { src: dentalChair, alt: "Dental chair and treatment room", category: "Surgery Rooms" },
   { src: operatory, alt: "Fully equipped surgery suite — digital imaging", category: "Surgery Rooms" },
